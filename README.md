@@ -15,7 +15,8 @@ career guidance. To solve this issue, we have proposed a solution. An app where
 students can seek career guidance from founders, CEOs, entrepreneurs of related 
 field. Student can attend mock interviews which will help themselves to know about 
 the level of their skill are enough to get a fresher job or not.
-Effect on Society: In recent times, university degree holders do not meet the demand 
+## Effect on Society: 
+In recent times, university degree holders do not meet the demand 
 of the job market. The situation is such that when hiring, employees have to be 
 trained from the beginning. Business entrepreneurs are not getting skilled people 
 from our country for management positions. [1] The survey was conducted with a 
