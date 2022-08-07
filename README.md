@@ -36,6 +36,7 @@ Career Check is an app where students can seek career guidance from founders,
 CEOs, entrepreneurs of related field. Student can attend mock interviews which will 
 help themselves to know about the level of their skill are enough to get a fresher job 
 or not. Here is our proposed solution:
+
 ![Untitled Diagram (1)](https://user-images.githubusercontent.com/97898902/183295800-8b10bb95-c9ed-4495-8f55-edf499184131.jpg)
 
 ### Fig: 1.0. Our Proposed Solution Diagram
