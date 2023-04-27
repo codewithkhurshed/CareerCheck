@@ -49,6 +49,10 @@ background information, projects, skills and previous work experience informatio
 Tech Leaders will also follow the same procedure of registration and after admin 
 approval they will be able to login and use the service.
 
+### Use Case Diagram of Career Check Application
+
+![career check use case drawio](https://user-images.githubusercontent.com/97898902/235013388-2212b42e-2d25-457c-88e7-a7f10b478404.png)
+
 
 
 # References
